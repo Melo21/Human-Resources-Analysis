@@ -22,5 +22,5 @@ Python notebook, Dataset from Kaggle.com
 
 ### Findings
 
-![Alt text](https://www.dropbox.com/s/8yuelwiyci709qd/Correlational.png?dl=0)
+![Alt text](https://www.dropbox.com/s/8yuelwiyci709qd/Correlational.png?dl=0 "Optional title")
 
