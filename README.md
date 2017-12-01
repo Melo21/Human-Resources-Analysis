@@ -21,4 +21,4 @@ Python notebook, Dataset from Kaggle.com
 
 
 ### Findings
-![ScreenShot](https://{https://www.dropbox.com/s/8yuelwiyci709qd/Correlational.png?dl=0})
+![Alt text](https://github.com/Melo21/Human-Resources-Analysis/blob/master/Correlational.png.jpg?raw=true "Correlational")
