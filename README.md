@@ -8,12 +8,12 @@ Satisfaction Level Last evaluation Number of projects Average monthly hours Time
 <ol><li>Satisfaction level vs average monthly hours</li>
 <li>Department with highest turnover</li>
 <li>last evaluation vs satisfaction level</li></ol>
-<li>Deeper analysis of regretted attrition:</li>
-<li>Did they have a recent promotion</li>
-<li>Did they spend too much time at work</li>
-<li>Work accident</li>
-<li>Number of projects</li>
-<li>Last evaluations</li>
+<li style = "text-decoration: underline;">Deeper analysis of regretted attrition:</li>
+<li style = "margin-left: 100px";>Did they have a recent promotion</li>
+<li style = "margin-left: 100px";>Did they spend too much time at work</li>
+<li style = "margin-left: 100px";>Work accident</li>
+<li style = "margin-left: 100px";>Number of projects</li>
+<li style = "margin-left: 100px";>Last evaluations</li>
 
 ### Tools Used
 
