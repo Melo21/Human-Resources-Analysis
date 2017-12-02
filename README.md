@@ -21,4 +21,4 @@ Python notebook, Dataset from Kaggle.com
 
 
 ### Findings
-![Alt text](/master/Correlational.png.jpg?raw=true "Correlational")
+![Alt text](/master/Correlational.png.jpg?raw=true)
