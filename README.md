@@ -1,3 +1,7 @@
+![Satisfaction Feature](https://media-exp1.licdn.com/mpr/mpr/AAEAAQAAAAAAAAX5AAAAJGU3MmYzNTkxLWY0N2QtNGM5NS05ZDQzLTUwM2I1MjE0ZDA2Zg.jpg)
+
+
+
 # Human-Resources-Analysis
 
 Why are our best and most experienced employees leaving prematurely? Have fun with this database and try to predict which valuable employees will leave next. Fields in the dataset include:
