@@ -21,4 +21,4 @@ Python notebook, Dataset from Kaggle.com
 
 
 ### Findings
-![Alt text](/master/Correlational.png.jpg?raw=true)
+![Correlations Heat Map](https://github.com/Melo21/Human-Resources-Analysis/blob/master/Correlational.png)
