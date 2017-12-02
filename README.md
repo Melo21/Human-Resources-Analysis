@@ -22,5 +22,5 @@ Python notebook, Dataset from Kaggle.com
 
 ### Findings
 ![Quit Comparisons](https://github.com/Melo21/Human-Resources-Analysis/blob/master/EmployQuit.png)
-![Employement Analysis](https://github.com/Melo21/Human-Resources-Analysis/blob/master/Employment%20Analysis.ipynb)
+![Salary vs Satisfaction](https://github.com/Melo21/Human-Resources-Analysis/blob/master/SalaryVsSat.png)
 ![Correlations Heat Map](https://github.com/Melo21/Human-Resources-Analysis/blob/master/Correlational.png)
