@@ -5,7 +5,7 @@ Satisfaction Level Last evaluation Number of projects Average monthly hours Time
 
 ## Relationships I want to analyze
 
-*Satisfaction level vs average monthly hours
+<li>Satisfaction level vs average monthly hours</li>
 *Department with highest turnover
 *last evaluation vs satisfaction level
 *Deeper analysis of regretted attrition:
